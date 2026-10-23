@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent Dictionary with Auto-Suggestion
 
 A browser-based version of the DSA project. It uses a Trie to store words and return prefix matches, with alphabetical or search-frequency ranking.
@@ -23,3 +24,7 @@ The first visit loads a small sample dictionary. The original C++ implementation
 - `styles.css` — layout and styles
 - `script.js` — Trie operations, suggestions, ranking, and local storage
 - `pro.cpp` — original C++ console implementation
+=======
+# -Intelligent_Dictionary
+DSAPRO
+>>>>>>> 41ce5234d8e72fc23dcef3cf7f978cbea1164b5b
