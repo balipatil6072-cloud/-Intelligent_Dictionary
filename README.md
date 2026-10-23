@@ -1,0 +1,2 @@
+# -Intelligent_Dictionary
+DSAPRO
